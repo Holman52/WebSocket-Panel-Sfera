@@ -1,4 +1,4 @@
-# Logs
+git remote add origin https://github.com/Holman52/WebSocket-Panel-Sfera.git# Logs
 logs
 *.log
 npm-debug.log*
